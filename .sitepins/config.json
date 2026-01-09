@@ -1,17 +1,17 @@
 {
   "media": {
-    "root": "exampleSite/assets/images",
-    "public": "exampleSite/assets"
+    "root": "assets/images",
+    "public": "assets"
   },
   "content": {
-    "root": "exampleSite/content"
+    "root": "content"
   },
   "code": {
-    "root": "layouts"
+    "root": "themes/hydrogen-hugo/layouts"
   },
   "themeConfig": [
-    "exampleSite/config",
-    "exampleSite/config.toml"
+    "config",
+    "config.toml"
   ],
   "arrangement": []
 }
