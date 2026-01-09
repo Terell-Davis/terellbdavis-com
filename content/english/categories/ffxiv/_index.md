@@ -1,0 +1,4 @@
+---
+title: "FFXIV"
+color: "#ffffffff"
+---
