@@ -1,4 +1,4 @@
 ---
 title: "FFXIV"
-color: "#ffffffff"
+color: "#bf1010ff"
 ---

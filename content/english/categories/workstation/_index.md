@@ -1,4 +1,4 @@
 ---
 title: "Workstation"
-color: "#F1D95C"
+color: "#fdb100ff"
 ---

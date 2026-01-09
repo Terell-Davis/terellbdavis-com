@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence and Robotics In A Nutshell"
+title: "Test Post"
 description: "meta description"
 date: 2021-12-17T18:19:25+06:00
 categories: ["workstation","github","technology"]

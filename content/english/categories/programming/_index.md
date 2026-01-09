@@ -1,4 +1,4 @@
 ---
 title: "Programming"
-color: "#26caf7"
+color: "#a326f7ff"
 ---
