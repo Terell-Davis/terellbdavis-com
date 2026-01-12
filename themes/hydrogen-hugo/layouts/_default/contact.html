@@ -13,7 +13,7 @@
         <div class="contact-form mt-5 pt-5">
           <h4>{{i18n `send_me_a_message`}}</h4>
 
-          <form class="row g-4" action="{{site.Params.contact_form_action}}">
+          <form class="row g-4" action="{{site.Params.contact_form_action}}" method="post">
             <div class="col-lg-6">
               <label for="name" class="form-label">{{ i18n "name" }}</label>
               <input type="text" class="form-control rounded-0 shadow-none " id="name" placeholder="Alex Smith" required>
