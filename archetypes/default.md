@@ -4,7 +4,7 @@ date: {{ .Date }}
 # meta keywords
 keywords: []
 # meta description
-description: "This is meta description"
+description: "New markdown page"
 # save as draft
 draft: false
 ---

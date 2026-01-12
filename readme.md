@@ -13,25 +13,18 @@ This repository is using the template (Hydrogen_Hugo)[]
 
 ---
 
-## Local development
-wip
+## Local deployment
+[WIP]
 ```bash
 # clone the repository
-git clone git@github.com:statichunt/hydrogen-hugo.git
+git clone git@github.com:Terell-Davis/terellbdavis-com.git
 
-# cd in the project directory
-$ npm install
 
-# cd in the project directory
-$ cd hydrogen-hugo/exampleSite/
-
-# Start local dev server
-$ hugo server --themesDir ../..
 ```
 
 ## License
 
-Copyright &copy; Design and developed by [Statichunt](https://statichunt.com)
+Copyright &copy; Theme design and developed by [Statichunt](https://statichunt.com)
 
 **Code License:** Released under the [MIT](https://github.com/statichunt/hydrogen-hugo/blob/master/LICENSE) license.
 

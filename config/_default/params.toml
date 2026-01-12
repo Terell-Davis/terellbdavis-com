@@ -4,7 +4,7 @@ search = false
 mainSections = ["blog"]
 related_post = true
 image_gallery = true
-contact_form_action = "#"
+contact_form_action = "https://forms.un-static.com/forms/ddb2f14baabbd168f23ad59c6bbd2b1730fcd408"
 google_tag_manager = ""
 custom_script = ""
 theme_copyright = true
@@ -32,9 +32,9 @@ recordIP = true
 enableQQ = false
 [metadata]
 keywords = ["Hydrogen","Hugo","Themefisher","GetHugoThemes","Statichunt"]
-description = "This is meta description"
+description = "description"
 author = "Statichunt"
-image = "images/developer.png"
+image = "images/itsme.png"
 [matomo]
 enable = false
 url = ""

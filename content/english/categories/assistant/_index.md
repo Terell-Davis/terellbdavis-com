@@ -1,4 +1,4 @@
 ---
-title: "Assistant"
+title: "Ai"
 color: "#ff7a5a"
 ---

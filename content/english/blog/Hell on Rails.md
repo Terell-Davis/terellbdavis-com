@@ -1,6 +1,6 @@
 ---
 title: "FFXIV - Hell on Rails (EX6) Raid Plans"
-description: "meta description"
+description: "Raid Plans written by Telios"
 date: 2021-12-17T18:19:25+06:00
 categories: ["ffxiv","gaming"]
 image: "images/ffxiv/ex6hor.jpg"
