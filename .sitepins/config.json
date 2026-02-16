@@ -1,17 +1,10 @@
 {
-  "media": {
-    "root": "assets/images",
-    "public": "assets"
-  },
-  "content": {
-    "root": "content"
-  },
-  "code": {
-    "root": "themes/hydrogen-hugo/layouts"
-  },
-  "themeConfig": [
+  "media": "assets/images",
+  "content": "content",
+  "arrangement": [],
+  "public": "static",
+  "configs": [
     "config",
     "config.toml"
-  ],
-  "arrangement": []
+  ]
 }
